@@ -103,7 +103,15 @@ The model is trained on the California Housing Dataset and evaluated using regre
 - Interactive prediction interface
 
 ---
+## 📊 Results
 
+Model: XGBoost Regressor
+
+Evaluation Metrics:
+
+- R² Score:0.84
+- Mean Absolute Error (MAE):0.31
+  
 ## 👨‍💻 Author
 
 Reza Mousavi
